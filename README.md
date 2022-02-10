@@ -8,10 +8,10 @@
 The back end for an e-commerce site. Includes models for categories, products and tags with CRUD routes.
 
 ## Usage
-- Clone directly to your machine.
-- Setup your `.env` and `db/schema.sql` for whichever sql database you would like to use or use the seed data and example database provided by running the following:
-  - Login to sql in the terminal and run `source db/schema.sql`
-  - In node, run `npm run seed` and `npm start`
+- Clone to your machine.
+- Setup your `.env` and `db/schema.sql` for whichever sql database you would like to use or use the example database and seed data by running the following:
+  - Login to sql in the terminal and run `source db/schema.sql`.
+  - In node, run `npm run seed` and `npm start`.
 
 ## Walk Through Video
 Video illustrating initial setup and route testing can be downloaded by [clicking here]().
