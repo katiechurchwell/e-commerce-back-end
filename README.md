@@ -3,13 +3,18 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
-![DotEnv](https://img.shields.io/badge/dotenv-yellow?style=flat)
 
 ## Summary
+The back end for an e-commerce site. Includes models for categories, products and tags with CRUD routes.
+
+## Usage
+- Clone directly to your machine.
+- Setup your `.env` and `db/schema.sql` for whichever sql database you would like to use or use the seed data and example database provided by running the following:
+  - Login to sql in the terminal and run `source db/schema.sql`
+  - In node, run `npm run seed` and `npm start`
 
 ## Walk Through Video
-
-## Installation
+Video illustrating initial setup and route testing can be downloaded by [clicking here]().
 
 ## License
   Licensed under [MIT](https://choosealicense.com/licenses/mit) 
