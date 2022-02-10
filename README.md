@@ -14,7 +14,7 @@ The back end for an e-commerce site. Includes models for categories, products an
   - In node, run `npm run seed` and `npm start`.
 
 ## Walk Through Video
-Video illustrating initial setup and route testing can be downloaded by [clicking here]().
+Video illustrating initial setup and route testing can be downloaded by [clicking here](https://github.com/katiechurchwell/e-commerce-back-end/blob/main/walk-through.mov?raw=true).
 
 ## License
   Licensed under [MIT](https://choosealicense.com/licenses/mit) 
